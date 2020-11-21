@@ -1,4 +1,4 @@
-# A list of human-centered software engineering dissertations. 
+# List of human-centered software engineering dissertations
 
 This is a list of dissertations that focus on the human factors of software engineering. Feel free to contribute by editting the file using GitHub, submitting a pull request, or emailing me (azh@utk.edu).
 
