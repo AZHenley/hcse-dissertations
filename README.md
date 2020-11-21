@@ -54,7 +54,7 @@ This is a list of dissertations that focus on the human aspects of software engi
 * [Expressing Interactivity with States and Constraints](http://reports-archive.adm.cs.cmu.edu/anon/hcii/CMU-HCII-15-100.pdf)
   * Stephen Oney advised by Brad Myers at Carnegie Mellon University
 * [Understanding Dynamic Software Behavior with Tools for Retroactive Investigation](https://faculty.washington.edu/ajko/dissertations/Burg2015Dissertation.pdf)
-  * Brian Burg advised by Michael Ernst and Amy Ko at Carnegie Mellon University
+  * Brian Burg advised by Michael Ernst and Amy Ko at University of Washington
 
 ## 2014
 * [Supporting Interrupted Programming Tasks with Memory-Based Aids](https://smartech.gatech.edu/handle/1853/53056)
