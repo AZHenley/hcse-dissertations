@@ -30,7 +30,7 @@ This is a list of dissertations that focus on the human aspects of software engi
 * [Error Messages as Rationale Reconstructions](http://static.barik.net/barik/thesis/barik-thesis.pdf)
   * Titus Barik advised by Emerson Murphy-Hill at North Carolina State Univerity
 * [An Empirical Evaluation of Feedback-Driven Software Development](https://repository.tudelft.nl/islandora/object/uuid%3Ab2946104-2092-42bb-a1ee-3b085d110466?collection=research)
-  * Moritz Beller advised by Andy Zaidman and Arie van Deursen
+  * Moritz Beller advised by Andy Zaidman and Arie van Deursen at TU Delft
 
 ## 2017
 * [A Tool (Mis)communication Theory and Adaptive Approach for Supporting Developer Tool Use](https://repository.lib.ncsu.edu/handle/1840.20/34504)
