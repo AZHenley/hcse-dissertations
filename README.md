@@ -56,6 +56,8 @@ Feel free to contribute! Either edit the file using GitHub, submit a pull reques
   * Scott D. Fleming advised by Kurt Stirewalt at Michigan State University
 * [Programmer Friendly Refactoring Tools](https://pdxscholar.library.pdx.edu/open_access_etds/2672/)
   * Emerson Murphy-Hill advised by Andrew Black at Portland State University
+* [Topes: Enabling End-User Programmers to Validate and Reformat Data](https://web.engr.oregonstate.edu/~scaffidc/papers/eu_20090507_dissertation.pdf)
+  * Christopher Scaffidi advised by Mary Shaw at Carnegie Mellon University
 
 ## 2008
 * [Asking and Answering Questions about the Causes of Software Behavior](https://faculty.washington.edu/ajko/papers/Ko2008Dissertation.pdf)
