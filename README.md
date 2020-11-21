@@ -1,5 +1,4 @@
-# hcse-dissertations
-A list of human-centered software engineering dissertations. 
+# A list of human-centered software engineering dissertations. 
 
 Feel free to contribute! Either edit the file using GitHub, submit a pull request, or email me (azh@utk.edu).
 
@@ -8,6 +7,8 @@ Feel free to contribute! Either edit the file using GitHub, submit a pull reques
   * Michael Coblenz advised by Jonathan Aldrich and Brad Myers at Carnegie Mellon University
 * [Expanding Interface Design Capabilities through Semantic and Data-Driven Analyses](https://amaswea.github.io/assets/diss/AmandaSwearngin_Dissertation_UW.pdf)
   * Amanda Swearngin advised by Amy Ko and James Fogarty at University of Washington
+* [Interactive Program Distillation]
+  * Andrew Head advised by Bjorn Hartmann and Marti Hearst at University of California, Berkeley
 
 ## 2019
 * [Identity-Based Signals and E-Mentorship to Support Engagement in Online Programming Communities](http://denaeford.me/papers/Dissertation-document.pdf)
@@ -18,6 +19,8 @@ Feel free to contribute! Either edit the file using GitHub, submit a pull reques
   * Sebastian Baltes advised by Stephan Diehl at University of Trier
 * [Variations Foraging](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/4j03d5542?locale=en)
   * Sruti Ragavan advised by Margaret Burnett at Oregon State University 
+* [Fostering Software Developer Productivity through Awareness Increase and Goal-Setting](https://www.zora.uzh.ch/id/eprint/174312/)
+  * Andre Meyer advised by Thomas Fritz at University of Zurich
 
 ## 2018
 * [Human-Centric Tools for Navigating Code](https://web.eecs.utk.edu/~azh/pubs/Henley2018bDissertation.pdf)
@@ -29,7 +32,9 @@ Feel free to contribute! Either edit the file using GitHub, submit a pull reques
 
 ## 2017
 * [A Tool (Mis)communication Theory and Adaptive Approach for Supporting Developer Tool Use](https://repository.lib.ncsu.edu/handle/1840.20/34504)
-   * Brittany Johnson advised by Emerson Murphy-Hill at North Carolina State University
+  * Brittany Johnson advised by Emerson Murphy-Hill at North Carolina State University
+* [Software Developers Using Signals in Transparent Environments](https://kilthub.cmu.edu/articles/Software_Developers_Using_Signals_in_Transparent_Environments/6723026)
+  * Jason Tsay advised by James Herbsleb and Laura Dabbish at Carnegie Mellon University
    
 ## 2016
 * [A Spreadsheet Model for Using Web Services and Creating Data-Driven Applications](https://www.cs.cmu.edu/~shihpinc/pdf/Thesis_Kerry_Chang.pdf)
@@ -52,20 +57,36 @@ Feel free to contribute! Either edit the file using GitHub, submit a pull reques
   * Christopher Parnin advised by Spencer Rugaber at Georgia Institute of Technology
 * [Helping End-User Programmers Find and Fix Performance Problems in Visual Code](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/ws859j29t?locale=en)
   * Christopher Chambers advised by Christopher Scaffidi at Oregon State University
+* [Leveraging Variation Management to Enhance End Users' Programming Experience](https://digitalcommons.unl.edu/dissertations/AAI3632730/)
+  * Sandeep Kuttal advised by Anita Sarma at University of Nebraska-Lincoln
 
 ## 2013
 * [Framework for Measuring Program Comprehension](https://opendata.uni-halle.de/bitstream/1981185920/11627/1/thesis.pdf)
   * Janet Siegmund advised by Gunter Saake at University of Magdeburg
 * [Supporting Users After Software Deployment through Selection-Based Crowdsourced Contextual Help](https://faculty.washington.edu/ajko/dissertations/Chilana2013Dissertation.pdf)
   * Parmit Chilana advised by Amy Ko and Jacob Wobbrock at University of Washington
+* [Eliciting Informal Specifications from Scientific Modelers for Evaluation and Debugging](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/z029p7565?locale=en)
+  * Christopher Bogart advised by Margaret Burnett at Oregon State University
 
 ## 2012
 * [Answering Reachability Questions](http://reports-archive.adm.cs.cmu.edu/anon/isr2012/CMU-ISR-12-104.pdf)
   * Thomas LaToza advised by Brad Myers and Jonathan Aldrich at Carnegie Mellon University
+* [Automatically Describing Program Structure and Behavior](https://web.eecs.umich.edu/~weimerw/students/rayphd.pdf)
+  * Raymond Buse advised by Westley Weimer at University of Virginia
 
 ## 2011
+* [Developer-Centric Models: Easing Access to Relevant Information in a Software Development Environment](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0052138)
+  * Thomas Fritz advised by Gail Murphy at University of British Columbia
 
 ## 2010
+* [Information Foraging in Debugging](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/z890rz710?locale=en)
+  * Joseph Lawrance advised by Margaret Burnett at Oregon State University
+* [Example-Centric Programming: Integrating Web Search into the Development Process](https://hci.stanford.edu/publications/2010/brandt-dissertation/brandt-dissertation.pdf)
+  * Joel Brandt advised by Scott Klemmer at Stanford University
+* [Integrating Natural Language and Program Structure Information to Improve Software Search and Exploration](https://pqdtopen.proquest.com/doc/759929332.html?FMT=ABS)
+  * Emily Hill advised by Lori Pollock at University of Delaware
+* [Sociotechnical Coordination and Collaboration in Open Source Software](https://www.proquest.com/docview/808313881/abstract)
+  * Christian Bird advised by Premkumar Devanbu at University of California, Davis
 
 ## 2009
 * [Successful Strategies for Debugging Concurrent Software: An Empirical Investigation](https://sdflem.github.io/publications/Fleming-Dissertation.pdf)
@@ -82,14 +103,20 @@ Feel free to contribute! Either edit the file using GitHub, submit a pull reques
   * Amy Ko advised by Brad Myers at Carnegie Mellon University
 
 ## 2007
+* [Focusing Knowledge Work with Task Context](https://open.library.ubc.ca/cIRcle/collections/ubctheses/831/items/1.0302110)
+  * Mik Kersten advised by Gail Murphy at University of British Columbia
 
 ## 2006
 * [Asking and Answering Questions During a Programming Change Task](https://open.library.ubc.ca/cIRcle/collections/ubctheses/831/items/1.0052042)
   * Jonathan Sillito advised by Gail Murphy at University of British Columbia
   
 ## 2005
+* [Spoken Language Support for Software Development](https://andrewbegel.com/begel-phd-thesis.pdf)
+  * Andrew Begel advised by Susan Graham at University of California, Berkeley
 
 ## 2004
+* [Project History as a Group Memory: Learning from the Past](https://open.library.ubc.ca/cIRcle/collections/ubctheses/831/items/1.0051638)
+  * Davor Cubranic advised by Gail Murphy at University of British Columbia
 
 ## 2003
 
