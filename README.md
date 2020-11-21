@@ -29,12 +29,16 @@ Feel free to contribute! Either edit the file using GitHub, submit a pull reques
   * Paige Rodeghero advised by Collin McMillan at University of Notre Dame
 * [Error Messages as Rationale Reconstructions](http://static.barik.net/barik/thesis/barik-thesis.pdf)
   * Titus Barik advised by Emerson Murphy-Hill at North Carolina State Univerity
+* [An Empirical Evaluation of Feedback-Driven Software Development](https://repository.tudelft.nl/islandora/object/uuid%3Ab2946104-2092-42bb-a1ee-3b085d110466?collection=research)
+  * Moritz Beller advised by Andy Zaidman and Arie van Deursen
 
 ## 2017
 * [A Tool (Mis)communication Theory and Adaptive Approach for Supporting Developer Tool Use](https://repository.lib.ncsu.edu/handle/1840.20/34504)
   * Brittany Johnson advised by Emerson Murphy-Hill at North Carolina State University
 * [Software Developers Using Signals in Transparent Environments](https://kilthub.cmu.edu/articles/Software_Developers_Using_Signals_in_Transparent_Environments/6723026)
   * Jason Tsay advised by James Herbsleb and Laura Dabbish at Carnegie Mellon University
+* [Envision: Reinventing the Integrated Development Environment](https://www.research-collection.ethz.ch/handle/20.500.11850/214522)
+  * Dimitar Asenov advised by Peter Mueller at ETH Zurich
    
 ## 2016
 * [A Spreadsheet Model for Using Web Services and Creating Data-Driven Applications](https://www.cs.cmu.edu/~shihpinc/pdf/Thesis_Kerry_Chang.pdf)
@@ -59,6 +63,8 @@ Feel free to contribute! Either edit the file using GitHub, submit a pull reques
   * Christopher Chambers advised by Christopher Scaffidi at Oregon State University
 * [Leveraging Variation Management to Enhance End Users' Programming Experience](https://digitalcommons.unl.edu/dissertations/AAI3632730/)
   * Sandeep Kuttal advised by Anita Sarma at University of Nebraska-Lincoln
+* [Social Aspects of Collaboration in Online Software Communities](https://ipa.win.tue.nl/?event=social-aspects-of-collaboration-in-online-software-communities)
+  * Bogdan Vasilescu advised by Mark van den Brand and Alexander Serebrenik at Eindhoven University of Technology
 
 ## 2013
 * [Framework for Measuring Program Comprehension](https://opendata.uni-halle.de/bitstream/1981185920/11627/1/thesis.pdf)
