@@ -7,7 +7,7 @@ This is a list of dissertations that focus on the human factors of software engi
   * Michael Coblenz advised by Jonathan Aldrich and Brad Myers at Carnegie Mellon University
 * [Expanding Interface Design Capabilities through Semantic and Data-Driven Analyses](https://amaswea.github.io/assets/diss/AmandaSwearngin_Dissertation_UW.pdf)
   * Amanda Swearngin advised by Amy Ko and James Fogarty at University of Washington
-* [Interactive Program Distillation]
+* [Interactive Program Distillation](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-48.html)
   * Andrew Head advised by Bjorn Hartmann and Marti Hearst at University of California, Berkeley
 
 ## 2019
