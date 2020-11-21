@@ -4,6 +4,8 @@ A list of human-centered software engineering dissertations.
 Feel free to contribute! Either edit the file using GitHub, submit a pull request, or email me (azh@utk.edu).
 
 ## 2020
+* [User-Centered Design of Principled Programming Languages](http://reports-archive.adm.cs.cmu.edu/anon/2020/CMU-CS-20-127.pdf)
+  * Michael Coblenz advised by Jonathan Aldrich and Brad Myers at Carnegie Mellon University
 
 ## 2019
 * [Identity-Based Signals and E-Mentorship to Support Engagement in Online Programming Communities](http://denaeford.me/papers/Dissertation-document.pdf)
@@ -26,16 +28,24 @@ Feel free to contribute! Either edit the file using GitHub, submit a pull reques
    * Brittany Johnson advised by Emerson Murphy-Hill at North Carolina State University
    
 ## 2016
+* [A Spreadsheet Model for Using Web Services and Creating Data-Driven Applications](https://www.cs.cmu.edu/~shihpinc/pdf/Thesis_Kerry_Chang.pdf)
+  * Kerry Chang advised by Brad Myers at Carnegie Mellon University
 
 ## 2015
+* [Backtracking Support in Code Editing](http://reports-archive.adm.cs.cmu.edu/anon/isr2015/CMU-ISR-15-103.pdf)
+  * YoungSeok Yoon advised by Brad Myers at Carnegie Mellon University
+* [Expressing Interactivity with States and Constraints](http://reports-archive.adm.cs.cmu.edu/anon/hcii/CMU-HCII-15-100.pdf)
+  * Stephen Oney advised by Brad Myers at Carnegie Mellon University
 
 ## 2014
 
 ## 2013
-* [Franework for Measuring Program Comprehension](https://opendata.uni-halle.de/bitstream/1981185920/11627/1/thesis.pdf)
+* [Framework for Measuring Program Comprehension](https://opendata.uni-halle.de/bitstream/1981185920/11627/1/thesis.pdf)
   * Janet Siegmund advised by Gunter Saake at University of Magdeburg
 
 ## 2012
+* [Answering Reachability Questions](http://reports-archive.adm.cs.cmu.edu/anon/isr2012/CMU-ISR-12-104.pdf)
+  * Thomas LaToza advised by Brad Myers and Jonathan Aldrich at Carnegie Mellon University
 
 ## 2011
 
@@ -48,6 +58,8 @@ Feel free to contribute! Either edit the file using GitHub, submit a pull reques
   * Emerson Murphy-Hill advised by Andrew Black at Portland State University
 
 ## 2008
+* [Asking and Answering Questions about the Causes of Software Behavior](https://faculty.washington.edu/ajko/papers/Ko2008Dissertation.pdf)
+  * Amy Ko advised by Brad Myers at Carnegie Mellon University
 
 ## 2007
 
