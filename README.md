@@ -119,6 +119,8 @@ This is a list of dissertations that focus on the human aspects of software engi
 ## 2008
 * [Asking and Answering Questions about the Causes of Software Behavior](https://faculty.washington.edu/ajko/papers/Ko2008Dissertation.pdf)
   * Amy Ko advised by Brad Myers at Carnegie Mellon University
+* [Pragmatic Software Reuse](https://www.cs.ubc.ca/~rtholmes/papers/thesis_2008_holmes_print-double-sided.pdf)
+  * Reid Holmes advised by Robert Walker at University of Calgary
 
 ## 2007
 * [Focusing Knowledge Work with Task Context](https://open.library.ubc.ca/cIRcle/collections/ubctheses/831/items/1.0302110)
@@ -141,6 +143,8 @@ This is a list of dissertations that focus on the human aspects of software engi
 ## 2002
 * [Lightweight Structure in Text](https://www.cs.cmu.edu/~rcm/papers/thesis/thesis.pdf)
   * Robert Miller advised by Brad Myers and David Garlin at Carnegie Mellon University
+* [A Programming System for Children that is Designed for Usability](https://john.pane.net/pdf/PaneThesis.pdf)
+  * John Pane advised by Brad Myers and David Garlin at Carnegie Mellon University
 * [Cognitive Support in Software Engineering Tools: A Distributed Cognition Framework](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.158.8227&rep=rep1&type=pdf)
   * Andrew Walenstein advised by Binay Bhattacharya at Simon Fraser University
   
