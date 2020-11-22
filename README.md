@@ -35,7 +35,7 @@ This is a list of dissertations that focus on the human aspects of software engi
   * Austin Z. Henley advised by Scott D. Fleming at University of Memphis
 * [Behavior-Informed Algorithms for Automatic Documentation Generation](https://curate.nd.edu/show/3n203x83s6p)
   * Paige Rodeghero advised by Collin McMillan at University of Notre Dame
-* [Error Messages as Rationale Reconstructions](http://static.barik.net/barik/thesis/barik-thesis.pdf)
+* [Error Messages as Rational Reconstructions](http://go.barik.net/thesis)
   * Titus Barik advised by Emerson Murphy-Hill at North Carolina State Univerity
 * [An Empirical Evaluation of Feedback-Driven Software Development](https://repository.tudelft.nl/islandora/object/uuid%3Ab2946104-2092-42bb-a1ee-3b085d110466?collection=research)
   * Moritz Beller advised by Andy Zaidman and Arie van Deursen at TU Delft
