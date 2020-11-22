@@ -42,7 +42,7 @@ This is a list of dissertations that focus on the human aspects of software engi
 
 ## 2017
 * [A Tool (Mis)communication Theory and Adaptive Approach for Supporting Developer Tool Use](https://repository.lib.ncsu.edu/handle/1840.20/34504)
-  * Brittany Johnson advised by Emerson Murphy-Hill at North Carolina State University
+  * Brittany Johnson advised by Emerson Murphy-Hill and Sarah Heckman at North Carolina State University
 * [Software Developers Using Signals in Transparent Environments](https://kilthub.cmu.edu/articles/Software_Developers_Using_Signals_in_Transparent_Environments/6723026)
   * Jason Tsay advised by James Herbsleb and Laura Dabbish at Carnegie Mellon University
 * [Envision: Reinventing the Integrated Development Environment](https://www.research-collection.ethz.ch/handle/20.500.11850/214522)
