@@ -9,6 +9,8 @@ This is a list of dissertations that focus on the human aspects of software engi
   * Amanda Swearngin advised by Amy Ko and James Fogarty at University of Washington
 * [Interactive Program Distillation](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-48.html)
   * Andrew Head advised by Bjorn Hartmann and Marti Hearst at University of California, Berkeley
+  *[The role of job specialization in Software Engineering](https://repositorio.ufpe.br/handle/123456789/38543)
+  *MAGALHÃES, Cleyton Vanut Cordeiro de advised by Fabio Silva at Federal University of Pernambuco
 
 ## 2019
 * [Identity-Based Signals and E-Mentorship to Support Engagement in Online Programming Communities](http://denaeford.me/papers/Dissertation-document.pdf)
@@ -21,6 +23,8 @@ This is a list of dissertations that focus on the human aspects of software engi
   * Sruti Ragavan advised by Margaret Burnett at Oregon State University 
 * [Fostering Software Developer Productivity through Awareness Increase and Goal-Setting](https://www.zora.uzh.ch/id/eprint/174312/)
   * Andre Meyer advised by Thomas Fritz at University of Zurich
+  * [Job rotation in software engineering : theory and practice](https://repositorio.ufpe.br/handle/123456789/35187) 
+  * SANTOS, Ronnie Edson de Souza advised by Fabio Silva at Federal University of Pernambuco
 
 ## 2018
 * [Human-Centric Tools for Navigating Code](https://web.eecs.utk.edu/~azh/pubs/Henley2018bDissertation.pdf)
@@ -65,6 +69,10 @@ This is a list of dissertations that focus on the human aspects of software engi
   * Sandeep Kuttal advised by Anita Sarma at University of Nebraska-Lincoln
 * [Social Aspects of Collaboration in Online Software Communities](https://ipa.win.tue.nl/?event=social-aspects-of-collaboration-in-online-software-communities)
   * Bogdan Vasilescu advised by Mark van den Brand and Alexander Serebrenik at Eindhoven University of Technology
+  * [A theory of motivation and satisfaction of software engineers](https://repositorio.ufpe.br/handle/123456789/12006)
+  * França, Alberto César Cavalcanti advised by Fabio Silva at Federal University of Pernambuco
+  * [Innovative Behavior Model of Software Professionals](https://repositorio.ufpe.br/handle/123456789/11295)
+  * Monteiro, Cleviton Vinicius Fonseca advised by Fabio Silva at Federal University of Pernambuco
 
 ## 2013
 * [Framework for Measuring Program Comprehension](https://opendata.uni-halle.de/bitstream/1981185920/11627/1/thesis.pdf)
