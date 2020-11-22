@@ -142,9 +142,9 @@ This is a list of dissertations that focus on the human aspects of software engi
 
 ## 2002
 * [Lightweight Structure in Text](https://www.cs.cmu.edu/~rcm/papers/thesis/thesis.pdf)
-  * Robert Miller advised by Brad Myers and David Garlin at Carnegie Mellon University
+  * Robert Miller advised by Brad Myers and David Garlan at Carnegie Mellon University
 * [A Programming System for Children that is Designed for Usability](https://john.pane.net/pdf/PaneThesis.pdf)
-  * John Pane advised by Brad Myers and David Garlin at Carnegie Mellon University
+  * John Pane advised by Brad Myers and David Garlan at Carnegie Mellon University
 * [Cognitive Support in Software Engineering Tools: A Distributed Cognition Framework](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.158.8227&rep=rep1&type=pdf)
   * Andrew Walenstein advised by Binay Bhattacharya at Simon Fraser University
   
@@ -154,4 +154,4 @@ This is a list of dissertations that focus on the human aspects of software engi
 
 ## 1999
 * [Building Whole Applications Using Only Programming-by-Demonstration](http://reports-archive.adm.cs.cmu.edu/anon/1999/CMU-CS-99-128.pdf)
-  * Richard McDaniel advised by Brad Myers and David Garlin at Carnegie Mellon University
+  * Richard McDaniel advised by Brad Myers and David Garlan at Carnegie Mellon University
