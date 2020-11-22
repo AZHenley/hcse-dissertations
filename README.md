@@ -25,6 +25,8 @@ This is a list of dissertations that focus on the human aspects of software engi
   * Andre Meyer advised by Thomas Fritz at University of Zurich
 * [Job Rotation in Software Engineering: Theory and Practice](https://repositorio.ufpe.br/handle/123456789/35187) 
   * Ronnie Edson de Souza Santos advised by Fabio Silva at Federal University of Pernambuco
+* [On the Human Factors Impact of Polyglot Programming on Programmer Productivity](https://web.cs.unlv.edu/stefika/documents/MerlinDissertation.pdf)
+  * Phillip Uesbeck (Drews) advised by Andreas Stefik at University of Nevada, Las Vegas
 
 ## 2018
 * [Human-Centric Tools for Navigating Code](https://web.eecs.utk.edu/~azh/pubs/Henley2018bDissertation.pdf)
