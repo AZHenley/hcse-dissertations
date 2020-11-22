@@ -11,6 +11,8 @@ This is a list of dissertations that focus on the human aspects of software engi
   * Andrew Head advised by Bjorn Hartmann and Marti Hearst at University of California, Berkeley
 * [The Role of Job Specialization in Software Engineering](https://repositorio.ufpe.br/handle/123456789/38543)
   * Cleyton Vanut Cordeiro de Magalhães advised by Fabio Silva at Federal University of Pernambuco
+* [Toward Productivity Improvements in Programming Languages Through Behavioral Analytics](https://web.cs.unlv.edu/stefika/documents/PatrickDissertation.pdf)
+  * Patrick Daleiden advised by Andreas Stefik at University of Nevada, Las Vegas
 
 ## 2019
 * [Identity-Based Signals and E-Mentorship to Support Engagement in Online Programming Communities](http://denaeford.me/papers/Dissertation-document.pdf)
