@@ -129,6 +129,8 @@ This is a list of dissertations that focus on the human aspects of software engi
 ## 2006
 * [Asking and Answering Questions During a Programming Change Task](https://open.library.ubc.ca/cIRcle/collections/ubctheses/831/items/1.0052042)
   * Jonathan Sillito advised by Gail Murphy at University of British Columbia
+* [Development of An Empirical Approach to Building Domain-Specific Knowledge Applied to High-End Computing](https://drum.lib.umd.edu/handle/1903/3797)
+  * Lorin Hochstein advised by Victor Basili at University of Maryland
   
 ## 2005
 * [Spoken Language Support for Software Development](https://andrewbegel.com/begel-phd-thesis.pdf)
