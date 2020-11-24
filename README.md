@@ -163,3 +163,11 @@ This is a list of dissertations that focus on the human aspects of software engi
 ## 1999
 * [Building Whole Applications Using Only Programming-by-Demonstration](http://reports-archive.adm.cs.cmu.edu/anon/1999/CMU-CS-99-128.pdf)
   * Richard McDaniel advised by Brad Myers and David Garlan at Carnegie Mellon University
+  
+## 1998
+
+## 1997
+
+## 1996
+* [A Multi-Level Code Comprehension Model for Large Scale Software](https://mountainscholar.org/handle/10217/183411)
+  * A. Marie Vans advised by Annaliese von Mayhauser at Colorado State University
