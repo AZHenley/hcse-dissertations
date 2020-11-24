@@ -85,6 +85,8 @@ This is a list of dissertations that focus on the human aspects of software engi
   * Parmit Chilana advised by Amy Ko and Jacob Wobbrock at University of Washington
 * [Eliciting Informal Specifications from Scientific Modelers for Evaluation and Debugging](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/z029p7565?locale=en)
   * Christopher Bogart advised by Margaret Burnett at Oregon State University
+* [Helping End-User Programmers Help Themselves: The Idea Garden Approach](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/0v838369w?locale=en)
+  * Chen (Jill) Cao advised by Margaret Burnett at Oregon State University
 
 ## 2012
 * [Answering Reachability Questions](http://reports-archive.adm.cs.cmu.edu/anon/isr2012/CMU-ISR-12-104.pdf)
@@ -115,6 +117,8 @@ This is a list of dissertations that focus on the human aspects of software engi
   * Christopher Scaffidi advised by Mary Shaw at Carnegie Mellon University
 * [Making APIs More Usable with Improved API Designs, Documentation and Tools](http://www.cs.cmu.edu/~NatProg/papers/Stylos%20-%20Dissertation%20CMU-CS-09-130.pdf)
   * Jeffrey Stylos advised by Brad Myers at Carnegie Mellon University
+* [Understanding and Supporting End-User Debugging Strategies](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjIgtnRspvtAhWRCjQIHV61DGYQFjACegQIBxAC&url=https%3A%2F%2Fir.library.oregonstate.edu%2Fdownloads%2F8p58pg688&usg=AOvVaw0YZVTSsO4Zz19u-KGO5IPM)
+  * Valentina Grigoreanu advised by Margaret Burnett at Oregon State University
 
 ## 2008
 * [Asking and Answering Questions about the Causes of Software Behavior](https://faculty.washington.edu/ajko/papers/Ko2008Dissertation.pdf)
@@ -125,6 +129,8 @@ This is a list of dissertations that focus on the human aspects of software engi
 ## 2007
 * [Focusing Knowledge Work with Task Context](https://open.library.ubc.ca/cIRcle/collections/ubctheses/831/items/1.0302110)
   * Mik Kersten advised by Gail Murphy at University of British Columbia
+* [Gender HCI Issues in End-User Programming](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/tb09j8137)
+  * Laura Beckwith advised by Margaret Burnett at Oregon State University
 
 ## 2006
 * [Asking and Answering Questions During a Programming Change Task](https://open.library.ubc.ca/cIRcle/collections/ubctheses/831/items/1.0052042)
