@@ -47,6 +47,8 @@ This is a list of dissertations that focus on the human aspects of software engi
   * Jason Tsay advised by James Herbsleb and Laura Dabbish at Carnegie Mellon University
 * [Envision: Reinventing the Integrated Development Environment](https://www.research-collection.ethz.ch/handle/20.500.11850/214522)
   * Dimitar Asenov advised by Peter Mueller at ETH Zurich
+* [Sustainable Software Development: Evolving Extreme Programming](https://kilthub.cmu.edu/articles/Sustainable_Software_Development_Evolving_Extreme_Programming/6723431/1)
+  * Todd Sedano advised by Cécile Péraire and Paul Ralph
    
 ## 2016
 * [A Spreadsheet Model for Using Web Services and Creating Data-Driven Applications](https://www.cs.cmu.edu/~shihpinc/pdf/Thesis_Kerry_Chang.pdf)
@@ -107,6 +109,8 @@ This is a list of dissertations that focus on the human aspects of software engi
   * Emily Hill advised by Lori Pollock at University of Delaware
 * [Sociotechnical Coordination and Collaboration in Open Source Software](https://www.proquest.com/docview/808313881/abstract)
   * Christian Bird advised by Premkumar Devanbu at University of California, Davis
+* [Fundamentals of Software Design Science](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0071404)
+  * Paul Ralph advised by Yair Wand at University of British Columbia
 
 ## 2009
 * [Successful Strategies for Debugging Concurrent Software: An Empirical Investigation](https://sdflem.github.io/publications/Fleming-Dissertation.pdf)
