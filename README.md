@@ -13,6 +13,8 @@ This is a list of dissertations that focus on the human aspects of software engi
   * Cleyton Vanut Cordeiro de Magalhães advised by Fabio Silva at Federal University of Pernambuco
 * [Toward Productivity Improvements in Programming Languages Through Behavioral Analytics](https://web.cs.unlv.edu/stefika/documents/PatrickDissertation.pdf)
   * Patrick Daleiden advised by Andreas Stefik at University of Nevada, Las Vegas
+* [Qualitative Analysis of Knowledge Transfer in Pair Programming](https://refubium.fu-berlin.de/handle/fub188/28968)
+  * Franz Zieris advised by Lutz Prechelt at Freie Universität Berlin
 
 ## 2019
 * [Identity-Based Signals and E-Mentorship to Support Engagement in Online Programming Communities](http://denaeford.me/papers/Dissertation-document.pdf)
@@ -39,6 +41,8 @@ This is a list of dissertations that focus on the human aspects of software engi
   * Titus Barik advised by Emerson Murphy-Hill at North Carolina State Univerity
 * [An Empirical Evaluation of Feedback-Driven Software Development](https://repository.tudelft.nl/islandora/object/uuid%3Ab2946104-2092-42bb-a1ee-3b085d110466?collection=research)
   * Moritz Beller advised by Andy Zaidman and Arie van Deursen at TU Delft
+* [Industrially Usable Distributed Pair Programming](https://refubium.fu-berlin.de/handle/fub188/23145)
+  * Julia Schenk advised by Lutz Prechelt at Freie Universität Berlin
 
 ## 2017
 * [A Tool (Mis)communication Theory and Adaptive Approach for Supporting Developer Tool Use](https://repository.lib.ncsu.edu/handle/1840.20/34504)
@@ -99,6 +103,8 @@ This is a list of dissertations that focus on the human aspects of software engi
 ## 2011
 * [Developer-Centric Models: Easing Access to Relevant Information in a Software Development Environment](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0052138)
   * Thomas Fritz advised by Gail Murphy at University of British Columbia
+* [Introducing Innovations into Open Source Projects](https://refubium.fu-berlin.de/handle/fub188/12963)
+  * Christopher Oezbek advised by Lutz Prechelt at Freie Universität Berlin
 
 ## 2010
 * [Information Foraging in Debugging](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/z890rz710?locale=en)
