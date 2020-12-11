@@ -15,6 +15,8 @@ This is a list of dissertations that focus on the human aspects of software engi
   * Patrick Daleiden advised by Andreas Stefik at University of Nevada, Las Vegas
 * [Qualitative Analysis of Knowledge Transfer in Pair Programming](https://refubium.fu-berlin.de/handle/fub188/28968)
   * Franz Zieris advised by Lutz Prechelt at Freie Universität Berlin
+* [Practical Knowledge Barriers in Professional Programming](https://digital.lib.washington.edu/researchworks/handle/1773/45471)
+  * Kyle Thayer advised by Amy Ko at University of Washington
 
 ## 2019
 * [Identity-Based Signals and E-Mentorship to Support Engagement in Online Programming Communities](http://denaeford.me/papers/Dissertation-document.pdf)
