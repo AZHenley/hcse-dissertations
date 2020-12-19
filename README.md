@@ -54,7 +54,7 @@ This is a list of dissertations that focus on the human aspects of software engi
 * [Envision: Reinventing the Integrated Development Environment](https://www.research-collection.ethz.ch/handle/20.500.11850/214522)
   * Dimitar Asenov advised by Peter Mueller at ETH Zurich
 * [Sustainable Software Development: Evolving Extreme Programming](https://kilthub.cmu.edu/articles/Sustainable_Software_Development_Evolving_Extreme_Programming/6723431/1)
-  * Todd Sedano advised by Cécile Péraire and Paul Ralph
+  * Todd Sedano advised by Cécile Péraire and Paul Ralph at Carnegie Mellon University
    
 ## 2016
 * [A Spreadsheet Model for Using Web Services and Creating Data-Driven Applications](https://www.cs.cmu.edu/~shihpinc/pdf/Thesis_Kerry_Chang.pdf)
