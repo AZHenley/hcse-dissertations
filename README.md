@@ -1,6 +1,6 @@
 # List of human-centered software engineering dissertations
 
-This is a list of dissertations that focus on the human aspects of software engineering. Feel free to contribute by editing this file using GitHub, submitting a pull request, or emailing me (azh@utk.edu).
+This is a list of dissertations that focus on the human aspects of software engineering. Feel free to contribute by editing this file using GitHub, submitting a pull request, or emailing me (austinhenley@microsoft.com).
 
 ## 2020
 * [User-Centered Design of Principled Programming Languages](http://reports-archive.adm.cs.cmu.edu/anon/2020/CMU-CS-20-127.pdf)
