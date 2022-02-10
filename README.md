@@ -78,7 +78,7 @@ This is a list of dissertations that focus on the human aspects of software engi
 * [Helping End-User Programmers Find and Fix Performance Problems in Visual Code](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/ws859j29t?locale=en)
   * Christopher Chambers advised by Christopher Scaffidi at Oregon State University
 * [Leveraging Variation Management to Enhance End Users' Programming Experience](https://digitalcommons.unl.edu/dissertations/AAI3632730/)
-  * Sandeep Kuttal advised by Anita Sarma at University of Nebraska-Lincoln
+  * Sandeep Kuttal advised by Gregg Rothermel and Anita Sarma at University of Nebraska-Lincoln
 * [Social Aspects of Collaboration in Online Software Communities](https://ipa.win.tue.nl/?event=social-aspects-of-collaboration-in-online-software-communities)
   * Bogdan Vasilescu advised by Mark van den Brand and Alexander Serebrenik at Eindhoven University of Technology
 * [A Theory of Motivation and Satisfaction of Software Engineers](https://repositorio.ufpe.br/handle/123456789/12006)
