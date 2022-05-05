@@ -2,7 +2,13 @@
 
 This is a list of dissertations that focus on the human aspects of software engineering. Feel free to contribute by editing this file using GitHub, submitting a pull request, or emailing me (austinhenley@microsoft.com).
 
+## 2021
+*[Designing Effective History Support for Exploratory Programming Data Work](http://reports-archive.adm.cs.cmu.edu/anon/hcii/CMU-HCII-21-106.pdf)
+  * Mary Beth Kery advised by Brad Myers at Carnegie Mellon University
+
 ## 2020
+*[Debugging Functional Programs by Interpretation](https://johnwhitington.net/assets/img/thesis.pdf)
+  * John Whitington advised by Tom Ridge at Leicester University, United Kingdom
 * [User-Centered Design of Principled Programming Languages](http://reports-archive.adm.cs.cmu.edu/anon/2020/CMU-CS-20-127.pdf)
   * Michael Coblenz advised by Jonathan Aldrich and Brad Myers at Carnegie Mellon University
 * [Expanding Interface Design Capabilities through Semantic and Data-Driven Analyses](https://amaswea.github.io/assets/diss/AmandaSwearngin_Dissertation_UW.pdf)
