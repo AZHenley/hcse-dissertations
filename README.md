@@ -7,6 +7,8 @@ This is a list of dissertations that focus on the human aspects of software engi
   * Mary Beth Kery advised by Brad Myers at Carnegie Mellon University
 
 ## 2020
+* [Modeling Eye Movement For The Assessment of Programming Proficiency](https://www.researchgate.net/profile/Naser-Al-Madi/publication/343251474_Modeling_Eye_Movement_For_The_Assessment_of_Programming_Proficiency/links/5f1f742492851cd5fa4e1730/Modeling-Eye-Movement-For-The-Assessment-of-Programming-Proficiency.pdf)
+  * Naser Al Madi advised by Jonathan I. Maletic at Kent State university
 *[Debugging Functional Programs by Interpretation](https://johnwhitington.net/assets/img/thesis.pdf)
   * John Whitington advised by Tom Ridge at Leicester University, United Kingdom
 * [User-Centered Design of Principled Programming Languages](http://reports-archive.adm.cs.cmu.edu/anon/2020/CMU-CS-20-127.pdf)
